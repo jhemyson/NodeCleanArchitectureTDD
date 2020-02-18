@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test:staged": "jest --passWithNoTests",
     "test": "jest"
   },
   "keywords": [],
